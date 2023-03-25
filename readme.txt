@@ -1,6 +1,6 @@
 Welcome to the IshuDbAdmin. The OpenSource Project 2022.
 
-This is a release of IshuDbAdmin, an Database Management Web application.
+This is a release of IshuDbAdmin, a Database Management Web application.
 
 This is is official file for instruction to use and utilize the project.
 
