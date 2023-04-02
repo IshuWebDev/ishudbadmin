@@ -20,7 +20,7 @@ Step : 1 - Download the package zip file Ishudbadmin_package from github https:/
 
 Step : 2 - Move and Extract the the Ishudbadmin package folder to your Localhost OR LiveServer root directory
 
-Step : 3 - Type Ishudbadmin in browser ex:- '127.0.0.1/ishudbadmin' OR 'domain.com/ishudbadmin'
+Step : 3 - Type Ishudbadmin in browser ex:- 'localhost/ishudbadmin' OR 'domain.com/ishudbadmin'
 
 Enjoy Your Application!
 
