@@ -24,7 +24,7 @@ Step : 3 - Type Ishudbadmin in browser ex:- 'localhost/ishudbadmin' OR 'domain.c
 
 Enjoy Your Application!
 
-You can contribute any modification on Github are most welcome!!
+Please make any contribution of modification in seperate package using your name and date and version ex- ishudbadmin_by_john_23052023_ver1.0.0.zip
 
 Ishu Gupta
 https://www.github.com/ishuweb
