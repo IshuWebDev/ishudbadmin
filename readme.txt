@@ -28,3 +28,6 @@ Please make any contribution of modification in seperate package using your name
 
 Ishu Gupta
 https://www.github.com/ishuweb
+
+If you have any query or suggesion. Please contact
+ishugupta7788@gmail.com (Expected reply within a week)
